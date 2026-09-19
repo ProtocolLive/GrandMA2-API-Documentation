@@ -29,7 +29,7 @@ function gma.gui.progress.settext(progress_handle,text) end
 -- param - progress_handle: Number
 -- param - from: Number
 -- param - to: Number
--- usage: gma.gui.progress.setrange(124. 0, 16)
+-- usage: gma.gui.progress.setrange(124, 0, 16)
 function gma.gui.progress.setrange(progress_handle,from,to) end
 
 -- .set(progress_handle, value)
